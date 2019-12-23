@@ -1,0 +1,24 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [v0.4] - 2019-11-27
+### Added
+- Added Doxygen support
+- Added CMH algorithm
+- Added WVector self-defined vector class
+- Added easylogging++ logging system
+- Added parallel preprocess support
+
+### Changed
+- Fixed few bugs in OT
+- Moved unused files into "__unused"
+- Used newly-defined namespace "bioutils"
+- Changed to a new defined file input format
+
+### Removed
+- Several out-of-date scripts
